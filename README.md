@@ -4,15 +4,11 @@
 
 > I build backend systems like I adopt stray kittens — with patience, structure, and a plan for recovery.
 
-```
-                     |\_/|                  
-                     (. .)    =^.^=         
-                   ==> 🐾 <==  code & cats    
-```
+🐱
 
 ---
 
-## TL;DR
+## ⚡ TL;DR
 
 - Backend / systems developer — Rust, Node.js, MongoDB, PostgreSQL, gRPC, multithreading, caching.
 - Designing scalable, fault-tolerant systems is my comfort zone.
@@ -22,7 +18,7 @@
 
 ---
 
-## Highlighted Project
+## 🚀 Highlighted Project
 
 ### [`vtg`](https://github.com/valnesfjord/vtg) — write once, run on VK & Telegram
 
@@ -31,9 +27,11 @@
 - Minimal boilerplate, maximum portability
 - Ideal for multi-platform bots with shared logic
 
+> Write once. Deploy everywhere. Pet cat.
+
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ```txt
 Languages: Rust, TypeScript, JavaScript, Python
@@ -47,25 +45,29 @@ Fun:       Building internal tools I’ll never publish but deeply love
 
 ---
 
-## Engineering Mindset
+## 🧠 Engineering Mindset
 
-- Build systems that **works gracefully**
-- Don’t rely on retry loops — rely on thought-out flows
-- Data > abstractions
-- Consistency > cleverness
+- Code should **survive** failure, not avoid it  
+- Abstractions are okay — when you control them  
+- Everything has a plan B (and plan C)  
+- Systems aren’t smart — but they can be reliable
 - Recovery plans for everything (including myself)
 
 > “If your code survives a crash, it deserves a treat.”
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valnesfjord&layout=compact&theme=gruvbox)](https://github.com/valnesfjord)
+![valnesfjord's GitHub stats](https://github-readme-stats.vercel.app/api?username=valnesfjord&show_icons=true&theme=gruvbox&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valnesfjord&layout=compact&theme=gruvbox&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=valnesfjord&theme=gruvbox&hide_border=true)
 
 ---
 
-## Mood Board
+## 🧩 Mood Board
 
 ```
 [✔] Code that survives a panic
@@ -75,12 +77,18 @@ Fun:       Building internal tools I’ll never publish but deeply love
 ```
 
 ---
+## 🏷️ Badges
 
-## Contact
+![Built with Rust](https://img.shields.io/badge/Built_with-Rust-orange?logo=rust&style=flat-square)
+![Node.js](https://img.shields.io/badge/Powered_by-Node.js-green?logo=node.js&style=flat-square)
+![Low-level Enjoyer](https://img.shields.io/badge/Low--level-Enthusiast-blue?style=flat-square)
 
-- GitHub: [github.com/valnesfjord](https://github.com/valnesfjord)
+---
+
+## ✉️ Contact
+
 - Telegram: [@valnesfjord](https://t.me/valnesfjord)
-- Email: ms.vana33@email.com
+- Email: ms.vana32@email.com
 
 ---
 
